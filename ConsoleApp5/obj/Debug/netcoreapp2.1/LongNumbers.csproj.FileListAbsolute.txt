@@ -1,0 +1,12 @@
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\LongNumbers.deps.json
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\LongNumbers.runtimeconfig.json
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\LongNumbers.runtimeconfig.dev.json
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\LongNumbers.dll
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\LongNumbers.pdb
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\LongNumbers.csprojAssemblyReference.cache
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\LongNumbers.AssemblyInfoInputs.cache
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\LongNumbers.AssemblyInfo.cs
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\LongNumbers.csproj.CoreCompileInputs.cache
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\LongNumbers.dll
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\LongNumbers.pdb
+C:\Users\linok\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\LongNumbers.genruntimeconfig.cache
